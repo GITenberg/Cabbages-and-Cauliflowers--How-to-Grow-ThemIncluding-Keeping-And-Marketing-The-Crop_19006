@@ -1,0 +1,32 @@
+_repo: Cabbages-and-Cauliflowers--How-to-Grow-ThemIncluding-Keeping-And-Marketing-The-Crop_19006
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gregory, James John Howard
+    birthdate: 1827
+    deathdate: 1910
+    gutenberg_agent_id: '8400'
+    url: http://www.gutenberg.org/2009/agents/8400
+description: ''
+gutenberg_bookshelf: Horticulture
+gutenberg_issued: '2006-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19006'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cabbage'
+- !lcsh 'Cauliflower'
+- !lcc 'SB'
+title: 'Cabbages and Cauliflowers: How to Grow Them
+
+  A Practical Treatise, Giving Full Details On Every Point,
+
+  Including Keeping And Marketing The Crop'
+url: http://www.gutenberg.org/ebooks/19006
